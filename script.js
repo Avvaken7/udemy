@@ -11,7 +11,7 @@ genres
 
 P.S. Функции вызывать не обязательно*/
 
-'use strict';
+"use strict";
 
 let numberOfFilms;
 
